@@ -9,3 +9,38 @@
 /* Put a border around your image */
 
 /* Change the font-family of your list */
+
+
+body {
+    background-color: darkseagreen;
+}
+
+header {
+    background-color: mediumaquamarine;
+}
+
+footer {
+    background-color: rgb(35, 175, 128);
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    color: rebeccapurple;
+    font-style: italic;
+}
+
+img {
+    border: 10px solid saddlebrown;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 60%;    
+}
+
+ul {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
