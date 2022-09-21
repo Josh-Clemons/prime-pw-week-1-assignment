@@ -4,7 +4,7 @@
 ls
 
 # 2 - What is the command for changing directories?
-cd
+cd then directory name
 
 # 3 - What is the command for going "up" a folder (to a parent directory)?
 cd ..
